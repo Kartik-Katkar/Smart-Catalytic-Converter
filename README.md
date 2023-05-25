@@ -1,4 +1,15 @@
 # Smart Catalytic Converter With Air Quality Monitoring System
+
+## Screenshots 
+
+<br>
+
+<p align="center">
+  <img src="./screenshots/6.gif" alt="image"/>
+</p>
+
+<br>
+
 This advanced system offers real-time monitoring, control, and optimization of the catalytic converter's performance, contributing to improved air quality and a greener environment.
 
 The smart catalytic converter with air quality monitoring system and Blynk integration is a cutting-edge solution designed to reduce vehicle emissions and improve air quality. Here are the key points:
